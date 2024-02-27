@@ -12,6 +12,5 @@
       "key": "your_secret_key3",
       "expiry_date": "2026-03-15"
     }
-    // Add more keys with their expiry dates as needed
   ]
 }
